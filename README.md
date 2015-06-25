@@ -14,5 +14,5 @@ var c = require('ezcrypt')({
 });
 
 var encrypted = c.encrypt('test');
-var decrypted = c.decrypt(value);
+var decrypted = c.decrypt(encrypted);
 ```
