@@ -1,5 +1,5 @@
 {
-  "name": "EzCrypt",
+  "name": "ezcrypt",
   "description": "Super simple crypto for encrypting / decrypting stored content.",
   "version": "0.0.1",
   "repository": {
