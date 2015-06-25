@@ -1,0 +1,19 @@
+{
+  "name": "EzCrypt",
+  "description": "Super simple crypto for encrypting / decrypting stored content.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinfroedge/ezcrypt.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodeunit": "*"
+  },
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "main": "index.js"
+}
+
